@@ -1,0 +1,16 @@
+create table : student : Roshni
+insert into : student : Roshni
+insert into : student : Roshni
+insert into : student : Roshni
+insert into : student : Roshni
+insert into : student : Roshni
+create table : person : Roshni
+insert into : person : Roshni
+insert into : person : Roshni
+update : student : Roshni
+delete from : person : Roshni
+update : student : Roshni
+delete from : student : Roshni
+delete from : student : NewTestUser
+update : student : NewTestUser
+update : student : Roshni

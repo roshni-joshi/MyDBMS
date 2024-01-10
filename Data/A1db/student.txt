@@ -1,0 +1,5 @@
+int 5 | date 10 | varchar 20
+id | birthdate | name
+10 | 06/07/2023 | Bhavee
+20 | 10/10/1999 | abc
+40 | 11/11/2023 | Roshni
